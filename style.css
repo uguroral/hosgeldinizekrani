@@ -1,0 +1,38 @@
+body {
+    background: #343a40;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.clock {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 60px;
+    letter-spacing: 7px;
+}
+
+.text1 {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 50px;
+    letter-spacing: 7px;
+}
+
+.text2 {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 40px;
+    letter-spacing: 7px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.kodluyoruz-img {
+    display: flex;
+    margin-top: 120px;
+    justify-content: center;
+    
+}
+
